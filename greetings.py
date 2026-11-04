@@ -32,8 +32,3 @@ if __name__ == "__main__":
     print(student.enroll("MSc 1 Data"))
 <<<<<<< HEAD
     print(student.farewell())
-=======
-
-    #
-    
->>>>>>> 44866a2af9a420c85c58a2411701df96518d70cd
